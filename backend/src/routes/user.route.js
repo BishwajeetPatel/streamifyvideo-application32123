@@ -9,7 +9,7 @@ import {
   sendFriendRequest,
 } from "../controllers/user.controller.js";
 
-const router = express.Router();
+const  router = express.Router();
 
 // apply auth middleware to all routes
 router.use(protectRoute);
