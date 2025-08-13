@@ -1,6 +1,6 @@
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 import { useEffect, useState } from "react";
-import {
+import { 
   getOutgoingFriendReqs,
   getRecommendedUsers,
   getUserFriends,
