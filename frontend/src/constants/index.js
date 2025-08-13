@@ -2,7 +2,7 @@ export const THEMES = [
   {
     name: "light",
     label: "Light",
-    colors: ["#ffffff", "#5a67d8", "#8b5cf6", "#1a202c"],
+    colors: ["#ffffff",  "#5a67d8", "#8b5cf6", "#1a202c"],
   },
   {
     name: "dark",
