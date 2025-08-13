@@ -4,7 +4,7 @@ import { logout } from "../lib/api";
 const useLogout = () => {
   const queryClient = useQueryClient();
 
-  const {
+  const { 
     mutate: logoutMutation,
     isPending,
     error,
