@@ -5,6 +5,7 @@ import { BellIcon, HomeIcon, ShipWheelIcon, UsersIcon } from "lucide-react";
 const Sidebar = () => {
   const { authUser } = useAuthUser();
   const location = useLocation();
+  
   const currentPath = location.pathname;
 
   return (
