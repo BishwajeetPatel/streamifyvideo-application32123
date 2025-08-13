@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+ 
 .str-chat__channel {
   display: flex;
   align-items: center;
