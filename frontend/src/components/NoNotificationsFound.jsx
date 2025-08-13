@@ -9,6 +9,7 @@ function NoNotificationsFound() {
       <h3 className="text-lg font-semibold mb-2">No notifications yet</h3>
       <p className="text-base-content opacity-70 max-w-md">
         When you receive friend requests or messages, they'll appear here.
+        
       </p>
     </div>
   );
